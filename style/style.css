@@ -50,7 +50,7 @@ nav.left-nav-links {  display: none;  }
 
 nav.left-nav-links ul li {
     display: inline-block;
-    font-family: 'Shentox2', Helvetica;
+    font-family: 'Shentox2', sans-serif;
     font-size: 14px;
 }
 
@@ -154,7 +154,7 @@ div.story-details ul.story-byline {
 
 h5.section,
 h5.news-section {
-    font-family: 'Shentox2', Helvetica;
+    font-family: 'Shentox2', sans-serif;
     font-size: 14px;
     margin-bottom: 5px;
     text-transform: uppercase;
@@ -226,12 +226,11 @@ div.deal-details {
 }
 
 ul.story-byline,
-ul.deal-byline,
 ul.news-cover-byline {
     display: flex;
     align-items: center;
     gap: 5px;
-    font-family: 'ARS Maquette';
+    font-family: 'ARS Maquette', Helvetica;
     font-size: 12px;
     margin-top: 6px;
 }
@@ -248,7 +247,7 @@ section.funding {  margin-top: 4rem;  }
 
 header.funding-header > a.funding-header-more {
     display: block;
-    font-family: 'ARS Maquette';
+    font-family: 'ARS Maquette', Helvetica;
     font-size: 14px;
     margin: 11px 23px 0 0;
     color: #f42;
@@ -321,7 +320,7 @@ div.funding-card a.funding-card-bit {
     display: flex;
     align-items: center;
     gap: 8px;
-    font-family: 'ARS Maquette';
+    font-family: 'ARS Maquette', Helvetica;
     font-size: 13px;
     line-height: 1.5;
     margin-right: 1em;
@@ -338,7 +337,7 @@ div.funding-story div.funding-byline {
 }
 
 div.funding-byline a.story-link {
-    font-family: 'ARS Maquette';
+    font-family: 'ARS Maquette', Helvetica;
     font-size: 12px;
     font-weight: 400;
 }
